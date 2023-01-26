@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "vacio",
+    "description": "corte para parrilla",
+    "price": 1200,
+    "thumbnail": "http://www.ternerita.com/cortes/vacío.jpg",
+    "code": 101,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "costilla",
+    "description": "corte para parrilla",
+    "price": 999,
+    "thumbnail": "http://www.ternerita.com/cortes/costilla.jpg",
+    "code": 102,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "tomahawk",
+    "description": "corte gourmet",
+    "price": 2000,
+    "thumbnail": "http://www.ternerita.com/cortes/tomahawk.jpg",
+    "code": 103,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Tbone",
+    "description": "corte gourmet",
+    "price": 1500,
+    "thumbnail": "http://www.laternerita.com/cortes/tbone.jpg",
+    "code": 104,
+    "stock": 15
+  }
+]
