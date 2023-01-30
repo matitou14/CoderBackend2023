@@ -34,5 +34,14 @@
     "thumbnail": "http://www.laternerita.com/cortes/tbone.jpg",
     "code": 104,
     "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Chorizo cerdo",
+    "description": "embutidos",
+    "price": 500,
+    "thumbnail": "http://www.laternerita.com/cortes/chorizo.jpg",
+    "code": 105,
+    "stock": 10
   }
 ]
