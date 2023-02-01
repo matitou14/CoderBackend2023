@@ -72,9 +72,9 @@ class ProductManager {
       };
 
 }
-
 const catalogo = fs.readFileSync('products.json', 'utf-8');
 console.log(JSON.parse(catalogo));
+
 
 
 async function desafio() {
@@ -98,15 +98,5 @@ desafio()
 
 
 
-
-const productManager = new ProductManager();
-productManager.addProduct('vacio', 'corte para parrilla', 1200, 'http://www.ternerita.com/cortes/vacío.jpg', 101, 10);
-productManager.addProduct('costilla', 'corte para parrilla', 999, 'http://www.ternerita.com/cortes/costilla.jpg', 102, 10);
-productManager.addProduct('tomahawk', 'corte gourmet', 2000, 'http://www.ternerita.com/cortes/tomahawk.jpg', 103, 10);
-// productManager.addProduct('perro cromado', 'corte gourmet', 2000, 'http://www.ternerita.com/cortes/tomahawk.jpg', 103, 10);
-// productManager.addProduct('tomahawk', 2000, 'http://www.ternerita.com/cortes/tomahawk.jpg', 104, 10);
-
-// console.log(productManager.getProducts());
-// console.log(productManager.getProductById(6));
 
 
