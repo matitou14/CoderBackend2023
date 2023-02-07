@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "title": "vacio",
     "description": "corte para parrilla",
     "price": 1200,
@@ -9,7 +9,7 @@
     "stock": 10
   },
   {
-    "id": 2,
+    "id":"2",
     "title": "costilla",
     "description": "corte para parrilla",
     "price": 999,
@@ -18,7 +18,7 @@
     "stock": 10
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "tomahawk",
     "description": "corte gourmet",
     "price": 2000,
@@ -27,7 +27,7 @@
     "stock": 10
   },
   {
-    "id": 4,
+    "id": "4",
     "title": "Tbone",
     "description": "corte gourmet",
     "price": 1500,
@@ -36,12 +36,59 @@
     "stock": 15
   },
   {
-    "id": 5,
+    "id": "5",
     "title": "Chorizo cerdo",
     "description": "embutidos",
     "price": 500,
     "thumbnail": "http://www.laternerita.com/cortes/chorizo.jpg",
     "code": 105,
     "stock": 10
+  },
+  {
+    "id": "6",
+    "title": "Morcilla",
+    "description": "embutidos",
+    "price": 500,
+    "thumbnail": "http://www.laternerita.com/cortes/morcilla.jpg",
+    "code": 106,
+    "stock": 10
+  },
+  {
+    "id": "7",
+    "title": "Chinchulin",
+    "description": "achuras",
+    "price": 2500,
+    "thumbnail": "http://www.laternerita.com/cortes/chinchulin.jpg",
+    "code": 107,
+    "stock": 101
+  },
+  {
+    "id": "8",
+    "title": "Tripa Gorda",
+    "description": "achuras",
+    "price": 2500,
+    "thumbnail": "http://www.laternerita.com/cortes/tripa.jpg",
+    "code": 108,
+    "stock": 105
+  },
+  {
+    "id": "9",
+    "title": "Combo 1",
+    "description": "1kg picada 1kg costeletas 1kg paleta 1kg milanesas",
+    "price": 3500,
+    "thumbnail": "http://www.laternerita.com/cortes/combo1.jpg",
+    "code": 109,
+    "stock": 10
+
+  },
+  {
+    "id": "10",
+    "title": "Combo 2",
+    "description": "1kg costeletas 1kg nalga 1kg milanesas",
+    "price": 3000,
+    "thumbnail": "http://www.laternerita.com/cortes/combo2.jpg",
+    "code": 110,
+    "stock": 10
+
   }
 ]
